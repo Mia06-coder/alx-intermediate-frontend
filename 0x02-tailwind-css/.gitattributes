@@ -1,0 +1,6 @@
+# Auto detect text files and normalize to LF
+* text=auto
+
+# Always use LF for CSS and HTML
+*.css text eol=lf
+*.html text eol=lf
